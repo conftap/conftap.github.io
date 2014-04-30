@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RK3x88: Flashing a new ROM on Linux"
+title:  "RK3x88: Flashing a new unpacked ROM on Linux"
 date:   2014-04-30 05:30:59
 categories: rk3188
 ---
@@ -9,7 +9,7 @@ categories: rk3188
 
 2. Get a new [ROM+kernel][rom]
 
-3. Get this [script][script] to flash kernels
+3. Get this [script][script] to flash kernels using the upgrade tool from #1
 
 4. Put your device in USB host mode (hold-down reset while plugging the power cord in)
 
