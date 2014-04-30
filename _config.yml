@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: ConfTap blog
 markdown: redcarpet
 pygments: true
+comments: true
